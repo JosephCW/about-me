@@ -1,0 +1,7 @@
+I am a Senior CS major here at NWMSU who has one semester remaining.
+
+I spent two years attending Metropolitan Community College before transferring up here. I've had 3 internships prior to taking this class, but no experience developing full-stack applications. For about a year I worked at Wagner Logistics, a 3rd party shipping and logistics company in KC, MO developing Java based desktop applications along with working primarily with Oracle databases. The past two summers I have been working at American Century Investments doing data integration with DB2 and Oracle while building Java Spring Integration based tools and applications. In my free time I enjoy programming, playing video games and flying FPV drones.
+
+At the moment I'm not exactly sure what my plans are. I currently have a couple of different offers from companies that are interested in me since I graduate in January, but I have a couple of weeks to reach a decision. One would be doing ETL based data integration, one would be developing the backend for web/mobile applications using Java/Clojure while the third option is to do web development using Python.
+
+Feel free to follow some of my projects on Github which can be found here (http://github.com/josephcw) and connect with me via Linkedin (https://www.linkedin.com/in/joseph-w-6344b4a2/). 
