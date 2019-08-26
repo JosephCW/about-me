@@ -11,7 +11,7 @@ This repo is being used to both share with the class information about myself an
 
 ## Required Tools
 
-In order to publish web pages with Github Pages all you have to have is a web browser. I would personally recommend one of the following:
+In order to publish web pages with Github Pages all you have to have is a web browser. Github Pages utilizes Markdown files (.md) so it would behoove you to also learn that. A link to learn Markdown is provided under the section titled 'Recommended Resources'. I would personally recommend one of the following:
 
 - [Brave Browser](https://brave.com/)
 - [Water Fox](https://www.waterfox.net/)
@@ -29,11 +29,12 @@ Optionally if you prefer to do development locally on your machine and not in th
 
 ## Recommended Resources
 
-Here are some resources that I've found useful for development in the past. I don't have much experience with web technology but with the Javascript I've written the MDN web docs proved invaluable. Any type of development should be put under version control so a helpful git reference is also included. I recently found this web developers roadmap while looking for a form of guided study for backend web development. Seeing as it's also recommended by Dr. Case, I will personally be following this as well moving forward.
+Here are some resources that I've found useful for development in the past. I don't have much experience with web technology but with the Javascript I've written the MDN web docs proved invaluable. Any type of development should be put under version control so a helpful git reference is also included. I recently found this web developers roadmap while looking for a form of guided study for backend web development. Seeing as it's also recommended by Dr. Case, I will personally be following this as well moving forward. Beneath that is a resource that I find useful as a reference when writing Markdown.
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
 - [Atlassian's Learn Git Tutorials](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [Web Developer's Roadmap](https://github.com/kamranahmedse/developer-roadmap) (As suggested by Dr. Case)
+- [DaringFireball's Markdown Documentation](https://daringfireball.net/projects/markdown/syntax)
 
 ## Contributors
 
