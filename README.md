@@ -1,3 +1,10 @@
+# About-Me
+
+## Repository Links
+
+- [Source Repository](https://github.com/JosephCW/about-me)
+- [Hosted Page](http://josephwatts.me/about-me/)
+
 ## About
 
 This repo is being used to both share with the class information about myself and to share both tools and documentation that could be useful to someone learning web development.
