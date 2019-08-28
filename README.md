@@ -36,6 +36,14 @@ Here are some resources that I've found useful for development in the past. I do
 - [Web Developer's Roadmap](https://github.com/kamranahmedse/developer-roadmap) (As suggested by Dr. Case)
 - [DaringFireball's Markdown Documentation](https://daringfireball.net/projects/markdown/syntax)
 
+Based on public internet opinion I've also begun reading the following books. As of the moment I'm enjoying them but as always do your own research before making a purchase based on a single recommendation.
+
+- [Web Design with HTML, CSS, JavaScript and jQuery Set by Jon Duckett](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442)
+- [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics by Jennifer Robbins](https://www.amazon.com/gp/product/1449319270/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)
+- [Simplifying JavaScript: Writing Modern JavaScript with ES5, ES6, and Beyond by Joe Morgan](https://www.amazon.com/gp/product/1680502883/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+- [CSS Mastery by Andy Budd](https://www.amazon.com/gp/product/1430258632/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming by Marijn Haverbeke](https://www.amazon.com/gp/product/1593279507/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+
 ## Contributors
 
 My name is Joseph Watts and I'm currently a senior at Northwest Missouri State University majoring in Computer Science.
