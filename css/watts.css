@@ -1,11 +1,53 @@
 body {
-    padding-top: 2rem;
-    background-color: #222222;
+    padding-top: 0rem;
+    background-color: #eae7dc;
     font-family: 'Courier New', Courier, monospace;
     font-size: 80%;
-    color: #dbdbdb;
+    color: #8e8d8a;
+}
+
+h1, h2, h3 {
+    color: #e85a4f;
+    text-transform: uppercase;
+}
+
+header {
+    border-top: 1px double #222222;
+    border-bottom: 1px double #222222;
+}
+
+article, aside, footer {
+    margin-left: 1em;
+    margin: 0em 1em 0em 1em;
 }
 
 /* article {
-    padding-left: 1rem;
+    border-right: 1px double #222222;
+    border-left: 1px double #222222;
 } */
+
+a {
+    color: #e98074;
+}
+
+a:hover {
+    color: #e85a4f;
+    text-decoration: none;
+}
+
+footer {
+    color: #e85a4f;
+}
+
+#current, #background, #future-plans {
+    border-left: 1px double #e98074;
+    border-bottom: 1px double #e98074;
+}
+
+
+/* Override bootstrap things */
+.navbar {
+    /* .bg-light uses important and we need to override that. */
+    background-color: #eae7dc!important;
+    color: #8e8d8a!important;
+}
