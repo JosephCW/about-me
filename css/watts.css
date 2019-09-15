@@ -71,4 +71,11 @@ nav div .navbar-nav a {
     text-transform: uppercase;
 }
 
+td {
+    border-left: 1px solid #e98074;
+    padding: 1em;
+}
 
+.bottom-row {
+    border-bottom: 1px solid #e98074;
+}
