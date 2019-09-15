@@ -12,8 +12,7 @@ h1, h2, h3 {
 }
 
 header {
-    border-top: 1px double #222222;
-    border-bottom: 1px double #222222;
+    border-bottom: 1px double #e98074;
 }
 
 article, aside, footer {
@@ -43,14 +42,30 @@ footer {
     border-bottom: 1px double #e98074;
 }
 
+#youtube-video {
+    width: 80%;
+    margin: 1em 10% 1em 10%;
+}
+
+#img-circle {
+    border-radius: 50%;
+}
 
 /* Override bootstrap things */
 .navbar {
     /* .bg-light uses important and we need to override that. */
     background-color: #eae7dc!important;
-    color: #8e8d8a!important;
+    color: #e98074 !important;
 }
 
-.img-circle {
-    border-radius: 50%;
+nav div .navbar-nav a.active  {
+    color: #e85a4fe5 !important;
 }
+
+nav div .navbar-nav a {
+    color: #e85a4faf !important;
+    font-size: 120%;
+    text-transform: uppercase;
+}
+
+
