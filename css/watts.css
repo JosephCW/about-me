@@ -17,8 +17,7 @@ header {
 }
 
 article, aside, footer {
-    margin-left: 1em;
-    margin: 0em 1em 0em 1em;
+    margin: 1em;
 }
 
 /* article {
@@ -50,4 +49,8 @@ footer {
     /* .bg-light uses important and we need to override that. */
     background-color: #eae7dc!important;
     color: #8e8d8a!important;
+}
+
+.img-circle {
+    border-radius: 50%;
 }
