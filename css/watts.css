@@ -38,9 +38,37 @@ footer {
     color: #e85a4f;
 }
 
-section {
+#current, #background, #future-plans {
     border-left: 1px double #e98074;
     border-bottom: 1px double #e98074;
+}
+
+#container {
+    border-left: 1px double #e98074;
+    border-bottom: 1px double #e98074;
+}
+
+form {
+    padding-bottom: 1em;
+}
+
+#submit-button {
+    color: #8e8d8a;
+    border-color: #e98074;
+}
+
+#submit-button:hover {
+    background-color: #e98074;
+    color: white;
+}
+
+#submit-button:active {
+    background-color: #e85a4f;
+    box-shadow: none;
+}
+
+#submit-button:focus {
+    box-shadow: none;
 }
 
 #youtube-video, #dog-pic {

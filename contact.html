@@ -28,23 +28,25 @@
 
     <article>
         <h2>Contact</h2>
-        <div class="container-fluid">
+        <div class="container-fluid" id="container">
         <section id="contact-section">
+        <h3>Email Form</h3>
 <!-- Material Design Containers -->
-    
-        <form id="contact-form" action="have-not-made-yet.php" type="POST">
-            <div class="row">
+        <div class="row">
+            <form id="contact-form" action="have-not-made-yet.php" type="POST">
+                <div class="col-md-12">
                     <label for="first-name">First Name</label>
                     <input type="text" id="first-name" name="firstname">
-            </div>
-            <div class="row">
-                <label for="email-address">Email Address</label>
-                <input type="text" id="email-address" name="emailaddress">
-            </div>
-            <div class="row">
-                <button type="submit" class="btn btn-outline-primary">Message Me</button>
-            </div>
-        </form>
+                </div>
+                <div class="col-md-12">
+                    <label for="email-address">Email Address</label>
+                    <input type="text" id="email-address" name="emailaddress">
+                </div>
+                <div class="col-md-12">
+                    <button type="submit" id="submit-button" class="btn btn-outline-primary">Message Me</button>
+                </div>
+            </form>
+        </div>
         </section>
         </div>
     </article>
