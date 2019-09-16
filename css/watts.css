@@ -38,7 +38,7 @@ footer {
     color: #e85a4f;
 }
 
-#current, #background, #future-plans {
+section {
     border-left: 1px double #e98074;
     border-bottom: 1px double #e98074;
 }
