@@ -38,14 +38,13 @@ footer {
     color: #e85a4f;
 }
 
-#current, #background, #future-plans {
+#current, #background, #future-plans, #container, #random-flexbox {
     border-left: 1px double #e98074;
     border-bottom: 1px double #e98074;
 }
 
-#container {
-    border-left: 1px double #e98074;
-    border-bottom: 1px double #e98074;
+#flexbox-area {
+    padding: 1em;
 }
 
 form {
@@ -80,6 +79,17 @@ form {
 
 #img-circle {
     border-radius: 50%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.child {
+    display:inline;
+    margin: auto;
 }
 
 /* Override bootstrap things */
