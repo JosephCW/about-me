@@ -121,3 +121,7 @@ td {
 .bottom-row {
     border-bottom: 1px solid #e98074;
 }
+
+#site-name {
+    padding-right: 0.5em;
+}
