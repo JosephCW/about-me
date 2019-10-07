@@ -9,6 +9,8 @@
 
 This repo is being used to both share with the class information about myself and to share both tools and documentation that could be useful to someone learning web development.
 
+It also includes a calculator to convert between farenheit, celsius, and kelvin.
+
 ## Required Tools
 
 In order to publish web pages with Github Pages all you have to have is a web browser. Github Pages utilizes Markdown files (.md) so it would behoove you to also learn that. A link to learn Markdown is provided under the section titled 'Recommended Resources'. I would personally recommend one of the following:
