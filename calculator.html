@@ -34,7 +34,10 @@
         <h3>Temperature</h3>
 <!-- Material Design Containers -->
         <div class="row">
-            
+            <label class="radio-inline radio"><input type="radio" name="fromRadio" checked>Celsius</label>
+            <label class="radio-inline radio"><input type="radio" name="fromRadio">Farenheit</label>
+            <label class="radio-inline radio"><input type="radio" name="fromRadio">Kelvin</label>
+
             <div class="col-md-12">
                 <label for="temp-celsius-input">Temperature Celsius</label>
                 <input type="text" id="temp-celsius-input" name="tempcelsius">
@@ -44,12 +47,13 @@
                 <input type="text" id="temp-farenheit-input" name="tempfarenheit">
             </div>
             <div class="col-md-12">
-                <button type="submit" id="submit-button" class="btn btn-outline-primary">Convert</button>
+                <label for="temp-kelvin-input">Temperature Kelvin</label>
+                <input type="text" id="temp-kelvin-input" name="tempkelvininput">
             </div>
             <div class="col-md-12">
-                <label id="converted-farenheit"></label>
-                <label id="converted-celsius"></label>
+                <button id="submit-button" class="btn btn-outline-primary">Convert</button>
             </div>
+            
         </div>
         </section>
         </div>
