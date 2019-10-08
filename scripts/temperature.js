@@ -1,10 +1,10 @@
 function convertFromCelsiusToKelvin(temperatureInCelsius) {
-    if (temperatureInCelsius < -273.15) throw "Celsius does not go lower than -273.15!"
+    if (temperatureInCelsius < -273.15) throw Error("Celsius does not go lower than -273.15!")
     return temperatureInCelsius + 273.15
 }
 
 function convertFromKelvinToCelsius(temperatureInKelvin) {
-    if (temperatureInKelvin < 0) throw "Kelvin is absolute and cannot be negative!"
+    if (temperatureInKelvin < 0) throw Error("Kelvin is absolute and cannot be negative!")
     return temperatureInKelvin - 273.15
 }
 
@@ -84,6 +84,6 @@ document.getElementById("submit-button").addEventListener("click", ()=> {
 
         incrementAndUpdateTimesConverted()
     } catch(err) {
-        alert(err)
+        alert(err.message)
     }
 })
