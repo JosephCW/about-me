@@ -55,22 +55,22 @@ form {
     padding-bottom: 1em;
 }
 
-#submit-button {
+#submit-button, #fetch-temperature {
     color: #8e8d8a;
     border-color: #e98074;
 }
 
-#submit-button:hover {
+#submit-button:hover, #fetch-temperature:hover {
     background-color: #e98074;
     color: white;
 }
 
-#submit-button:active {
+#submit-button:active, #fetch-temperature:acive {
     background-color: #e85a4f;
     box-shadow: none;
 }
 
-#submit-button:focus {
+#submit-button:focus, #fetch-temperature:focus {
     box-shadow: none;
 }
 
@@ -78,7 +78,6 @@ form {
     width: 80%;
     max-width: 868px;
     margin: 1em 10% 1em 10%;
-
 }
 
 #img-circle {
@@ -130,10 +129,14 @@ td {
     padding-left: 1em;
 }
 
-#submit-button {
+#submit-button, #fetch-temperature {
     margin-bottom: 1em;
 }
 
 #results, #ptimes-converted {
     padding-left: 1em;
+}
+
+#result-div {
+    display: none;
 }

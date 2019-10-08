@@ -59,3 +59,4 @@ I can't have a contribution section without including an image of my lovely girl
 - https://stackoverflow.com/questions/16010827/html5-localstorage-checking-if-a-key-exists
 - https://stackoverflow.com/questions/9618504/how-to-get-the-selected-radio-button-s-value
 - https://www.w3schools.com/tags/att_input_type_radio.asp
+- https://dev.to/shoupn/javascript-fetch-api-and-using-asyncawait-47mp

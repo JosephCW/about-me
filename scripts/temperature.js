@@ -30,6 +30,13 @@ function incrementAndUpdateTimesConverted() {
     document.getElementById("stimes-converted").innerHTML = timesConverted
 }
 
+async function getMaryvilleTemperature() 
+{
+    let response = await fetch("https://api.openweathermap.org/data/2.5/weather?id=5056172&appid=78731028ab536f59c458d69b60e95a1c");
+    let data = await response.json()
+    let temp = (data['main']['temp'] - 273.15).toFixed(2)
+    return temp;
+}
 
 let timesConverted = localStorage.getItem("timesConverted")
 if (timesConverted === null) {
@@ -86,4 +93,14 @@ document.getElementById("submit-button").addEventListener("click", ()=> {
     } catch(err) {
         alert(err.message)
     }
+})
+
+
+document.getElementById("fetch-temperature").addEventListener("click", ()=> {
+    console.log('about to run getMaryvilleTemp')
+    getMaryvilleTemperature().then(data => {
+        document.getElementById("result-span").innerHTML = data
+    });
+
+    document.getElementById("result-div").style.display = "block"
 })
