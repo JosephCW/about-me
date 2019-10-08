@@ -52,3 +52,10 @@ My name is Joseph Watts and I'm currently a senior at Northwest Missouri State U
 I can't have a contribution section without including an image of my lovely girlfriend, Danielle, along with myself at a dinner theatre event.
 
 ![!dinner theater picture!](resources/images/dinnerTheaterPhoto.jpg)
+
+## Extra Resources and References
+
+- https://stackoverflow.com/questions/39515048/correct-use-of-qunit-throw-assertion
+- https://stackoverflow.com/questions/16010827/html5-localstorage-checking-if-a-key-exists
+- https://stackoverflow.com/questions/9618504/how-to-get-the-selected-radio-button-s-value
+- https://www.w3schools.com/tags/att_input_type_radio.asp
