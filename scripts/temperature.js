@@ -91,7 +91,7 @@ document.getElementById("submit-button").addEventListener("click", ()=> {
 
         incrementAndUpdateTimesConverted()
     } catch(err) {
-        alert(err.message)
+        alert(err)
     }
 })
 
